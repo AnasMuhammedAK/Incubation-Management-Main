@@ -1,0 +1,15 @@
+.sticky-nav {
+    position: sticky;
+    top: 0;
+  }
+  .logoutbtn{
+    border: solid 2px black;
+    border-radius: 20px;
+  
+    width: 100px;
+  }
+  .logoutbtn:hover{
+    background-color: black;
+    border: solid 2px white;
+    color: white;
+  }

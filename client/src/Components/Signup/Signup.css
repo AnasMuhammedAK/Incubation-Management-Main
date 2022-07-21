@@ -1,0 +1,16 @@
+.signup{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+    margin: 10px 0;
+}
+.forgot-password{
+    margin-top: 10px;
+}
+
+.link{
+    margin-top: 10px;
+    text-decoration: none;
+}
